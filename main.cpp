@@ -34,7 +34,7 @@ int main(int argc, char* argv[])
     int mnum, rnum; 
     if (argc == 1)
     {
-        src = "../tests/ips.txt";
+        src = "emails.txt";
         mnum = 10;
         rnum = 5;
     }
